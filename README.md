@@ -1,2 +1,2 @@
 # PetSimulatorGame
-A pet simulator game.
+A pet simulator game - group project.
